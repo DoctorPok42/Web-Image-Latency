@@ -1,0 +1,22 @@
+{
+  "name": "web-image-latency",
+  "version": "1.0.0",
+  "description": "Get the home image of a website and his latency",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DoctorPok42",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.25.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorPok42/Web-Image-Latency.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DoctorPok42/Web-Image-Latency/issues"
+  },
+  "homepage": "https://github.com/DoctorPok42/Web-Image-Latency#readme"
+}
