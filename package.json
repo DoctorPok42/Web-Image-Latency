@@ -22,7 +22,8 @@
   "homepage": "https://github.com/DoctorPok42/Web-Image-Latency#readme",
   "devDependencies": {
     "@types/express": "^4.16.1",
-    "tslint": "^5.12.1",
+    "@types/node": "^25.5.0",
+    "tslint": "^5.8.0",
     "typescript": "^3.3.3"
   }
 }
